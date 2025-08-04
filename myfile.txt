@@ -1,0 +1,6 @@
+ raj
+ mattepally
+AppData/Local/Programs/Python/Python313/python.exe "d:/downloads/GCP Data engineer/python_wotkspace/python_test/file_operator.py"
+data engineer
+ developer
+java
