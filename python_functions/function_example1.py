@@ -26,3 +26,9 @@ def fact(n):
 	return prod
 for i in range(1,11):
 	print("factorial of {} is {}".format(i,fact(i)))
+
+def add2(a,b):
+    c= a + b
+    d= a - b
+    return c,d
+print(add2(10,5))
