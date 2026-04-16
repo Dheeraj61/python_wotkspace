@@ -14,5 +14,7 @@ def info(**data):
     for key,value in data.items():
         print("{}: {}".format(key,value))
 
+        
+
 info(name='dheeraj',num=234567788,location='india',age=30)
 info(name='john',num=234567788,location='usa',age=30)
