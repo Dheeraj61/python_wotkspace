@@ -2,6 +2,7 @@ def add(a,b):
     c=a+b
     print("The sum of",a,"and",b,"is",c)
     #return c
+add(2,3)
 result = add(10,20)
 
 def div1(q,w,e):
@@ -26,6 +27,8 @@ def fact(n):
 	return prod
 for i in range(1,11):
 	print("factorial of {} is {}".format(i,fact(i)))
+
+
 
 def add2(a,b):
     c= a + b
