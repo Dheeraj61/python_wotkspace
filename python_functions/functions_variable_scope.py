@@ -1,3 +1,4 @@
+import functions_example2
 def outer():
     message='local'
     def inner():
@@ -7,3 +8,6 @@ def outer():
     inner()
     print('outer:',message)
 outer()
+
+
+functions_example2.display('dheeraj')
