@@ -1,4 +1,3 @@
-import functions_example2
 def outer():
     message='local'
     def inner():
@@ -7,7 +6,6 @@ def outer():
         print('inner:',message)
     inner()
     print('outer:',message)
+
+    
 outer()
-
-
-functions_example2.display('dheeraj')
